@@ -11,5 +11,7 @@
 
 // Publishing
 :PublishingPortal: Customer Portal
+:PublishingPortalSearch: Customer Portal Search
 
 :imagesdir: images
+:ContentTerm: content
